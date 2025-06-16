@@ -8,3 +8,7 @@ Awesome-Diffusion-LLM: a curated list of papers and resources of Diffusion Large
 - [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distributio](https://arxiv.org/abs/2310.16834) - ICML 2024
 - [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) - ICLR 2025
 - [BLOCK DIFFUSION: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MODELS](https://arxiv.org/abs/2503.09573) - ICLR 2025
+
+
+## Contributions 
+Contributions to this list are welcome! Please feel free to let me know if you find any awesome resources missing! 
