@@ -11,4 +11,4 @@ Awesome-Diffusion-LLM: a curated list of papers and resources of Diffusion Large
 
 
 ## Contributions 
-Contributions to this list are welcome! Please feel free to let me know if you find any awesome resources missing! 
+Contributions are welcome! If you know of any related valuable resources that aren’t listed here, feel free to share them!
