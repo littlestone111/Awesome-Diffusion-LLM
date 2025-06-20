@@ -9,6 +9,12 @@ Awesome-Diffusion-LLM: a curated list of papers and resources of Diffusion Large
 - [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) - ICLR 2025
 - [BLOCK DIFFUSION: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MODELS](https://arxiv.org/abs/2503.09573) - ICLR 2025
 
+## Discrete Diffusion LLM
+- [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) - NeurIPS 2021
+
+## Continuous Diffusion LLM
+- [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) - ICLR 2023
+
 
 ## Contributions 
 Contributions are welcome! If you know of any related valuable resources that aren’t listed here, feel free to share them!
