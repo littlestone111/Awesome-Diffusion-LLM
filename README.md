@@ -3,7 +3,7 @@
 Awesome-Diffusion-LLM: a curated list of papers and resources of Diffusion Large Language Model
 
 ## Recent Paper
-- [Dream 7B](https://hkunlp.github.io/blog/2025/dream/）
+- [Dream 7B](https://hkunlp.github.io/blog/2025/dream）
 - [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429)
 - [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) - ICLR 2025
 - [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
