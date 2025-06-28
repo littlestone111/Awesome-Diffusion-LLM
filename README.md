@@ -5,6 +5,8 @@ Awesome-Diffusion-LLM: a curated list of papers and resources of Diffusion Large
 ## Recent Paper
 - [DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639)
 - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
+- [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223)
+- [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216)
 - [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429)
 - [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 - [Dream 7B](https://hkunlp.github.io/blog/2025/dream)
